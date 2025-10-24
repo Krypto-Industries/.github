@@ -1,6 +1,6 @@
 # Krypto Industries
 
-[![website]: #](#) [![team]: #](#) [![license]: #](#)
+[![website]: https://kryptoindustries.com](https://kryptoindustries.com) [![team]: #](#) [![license]: #](#)
 
 Krypto Industries is a creative technology studio building software, video games, and digital media. We design and ship studio-owned engines, tools, games, and media assets with a focus on craft, security, and player experience. We build our own proprietary game engines and core runtime systems — we do not rely on public game engines for our primary projects.
 
